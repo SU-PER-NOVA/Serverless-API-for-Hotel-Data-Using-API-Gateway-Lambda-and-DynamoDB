@@ -2,7 +2,7 @@
 # Serverless API for Hotel Data: Using API Gateway, Lambda, and DynamoDB
 
 This project demonstrates the creation of a serverless API for managing hotel data using AWS services: API Gateway, Lambda, and DynamoDB.
-
+![All Components](all.png)
 ## Components
 - **DynamoDB**: Backend database for storing hotel booking data.
 - **Lambda**: Acts as the web server to process requests.
