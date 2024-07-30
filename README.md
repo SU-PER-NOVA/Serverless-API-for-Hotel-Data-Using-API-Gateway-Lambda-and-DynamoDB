@@ -49,6 +49,7 @@ When a customer accesses the application, the request is sent to API Gateway. AP
 - Deploy the API Gateway.
 - Test the GET request to ensure the HTML form is served correctly.
 - Test the POST request to ensure data is correctly written to the DynamoDB table.
+ ![DynamoDB Table](dynamodbTable.png)
 
 ## Invoke URL
 The deployed API can be accessed at:
